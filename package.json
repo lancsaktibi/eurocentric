@@ -1,0 +1,23 @@
+{
+  "name": "eurocentric",
+  "version": "1.0.0",
+  "description": "A Javascript / node.js Web App Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancsaktibi/eurocentric.git"
+  },
+  "author": "Tibor Lancsak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancsaktibi/eurocentric/issues"
+  },
+  "homepage": "https://github.com/lancsaktibi/eurocentric#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1"
+  }
+}
